@@ -1,0 +1,16 @@
+E:\xamarin\PhootWall\PhootWall\obj\Debug\PhootWall.csprojResolveAssemblyReference.cache
+E:\xamarin\PhootWall\PhootWall\bin\Debug\PhootWall.dll
+E:\xamarin\PhootWall\PhootWall\bin\Debug\PhootWall.pdb
+E:\xamarin\PhootWall\PhootWall\bin\Debug\PhootWall.dll.mdb
+E:\xamarin\PhootWall\PhootWall\bin\Debug\PhootWall.PhootWall.apk
+E:\xamarin\PhootWall\PhootWall\bin\Debug\PhootWall.PhootWall-Signed.apk
+E:\xamarin\PhootWall\PhootWall\obj\Debug\PhootWall.dll
+E:\xamarin\PhootWall\PhootWall\obj\Debug\PhootWall.pdb
+E:\xamarin\PhootWall\PhootWall\obj\Debug\android\bin\PhootWall.PhootWall.apk
+E:\xamarin\PhootWall\PhootWall\obj\Debug\res\layout\photelayout.xml
+E:\xamarin\PhootWall\PhootWall\obj\Debug\res\layout\main.xml
+E:\xamarin\PhootWall\PhootWall\obj\Debug\res\values\strings.xml
+E:\xamarin\PhootWall\PhootWall\obj\Debug\res\drawable\icon.png
+E:\xamarin\PhootWall\PhootWall\obj\Debug\res\drawable\empty_photo.png
+E:\xamarin\PhootWall\PhootWall\obj\Debug\R.cs.flag
+E:\xamarin\PhootWall\PhootWall\obj\Debug\uploadflags.txt
